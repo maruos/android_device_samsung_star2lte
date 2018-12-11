@@ -24,4 +24,3 @@ $(call inherit-product, device/samsung/star2lte/lineage.mk)
 # Note: Maru vendor files are included in universal9810-common
 
 PRODUCT_NAME := maru_star2lte
-PRODUCT_MODEL := Maru on the Samsung S9+
